@@ -2,7 +2,7 @@ import React from 'react';
 
 var MyButton = React.createClass({
     handleClick: function(e){
-       // alert('hi')
+       // alert('done')
        console.log(e)
      //  e.className.add('yo')
     },
